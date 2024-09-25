@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan Šegan</h1>
 <h3 align="center">A passionate developer from Serbia</h3>
-<img align="right" alt="Coding" width="400" src="[Y2lkPTc5MGI3NjExY3U2MmlheHpraHJuazFpcHBlbXk4NzI2MXp1YXFkd3hqeGZxcjFodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw](https://imgs.search.brave.com/HECyRSXt6HSw1yz0qC2X08r2Wmk3pHb-6MvaAZlIdyo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.jpeg)">
+<img align="right" alt="Coding" width="400" src="[[Y2lkPTc5MGI3NjExY3U2MmlheHpraHJuazFpcHBlbXk4NzI2MXp1YXFkd3hqeGZxcjFodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw](https://imgs.search.brave.com/HECyRSXt6HSw1yz0qC2X08r2Wmk3pHb-6MvaAZlIdyo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.jpeg)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVmdHNqMnN1NTFhM2xtMnpjeWp0enl2djI2ODlrMmVidGN2OHR0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.webp)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshegy&label=Profile%20views&color=0e75b6&style=flat" alt="sshegy" /> </p>
 
