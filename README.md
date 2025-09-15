@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects (still in development) are available at [http://sshegy.github.io/milansegan.github.io/](http://sshegy.github.io/milansegan.github.io/)
-
 - 💬 Ask me about **C, Java, JavaFX ...**
 
 - 📫 How to reach me **milansegan55@gmail.com**
