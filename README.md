@@ -53,7 +53,7 @@ I'm a passionate developer from **Serbia**, currently studying at **School of Co
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sShegy&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sShegy&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sShegy&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
