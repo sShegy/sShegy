@@ -10,7 +10,7 @@
     <a href="mailto:milansegan55@gmail.com">
       <img src="https://img.shields.io/badge/Email-Me-d14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://shegyport.vercel.app/">
+    <a href="https://shegyport.verl.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
   </p>
